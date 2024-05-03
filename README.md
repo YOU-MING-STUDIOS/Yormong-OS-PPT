@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <h1>Yormong OS - 更新中✅ - 内测中🔧</h1>
 Yormong OS 是 一个基于 PPT 内核的虚拟操作系统<br><br>
 
@@ -26,6 +26,8 @@ Yormong OS 是 一个基于 PPT 内核的虚拟操作系统<br><br>
 
 ## 2. Yormong OS 版本历史 🕒
 [版本页面]()
+
+> 抱歉，我们暂时没有制作出版本页面，敬请期待！
 
 ## 3. 预览 Yormong OS 🔍
 ### 宣传片▶️
