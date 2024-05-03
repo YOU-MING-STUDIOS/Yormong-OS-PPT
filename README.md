@@ -5,7 +5,7 @@ Yormong OS 是 一个基于 PPT 内核的虚拟操作系统<br><br>
 
 [ **我的主页🍀** ](https://you-ming.mysxl.cn/) | [ **转到飞书文档** ](https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe#part-TRSDdKqYtox4hqxdjvTc7Eonn9d)
  
-[English]() 丨 简体中文</b>
+[English](https://github.com/YOU-MING-STUDIOS/Yormong-OS-PPT/blob/main/README_EN.md) 丨 简体中文</b>
 
 </div>
 
