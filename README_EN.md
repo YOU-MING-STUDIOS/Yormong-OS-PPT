@@ -9,7 +9,7 @@ English 丨 [简体中文](https://github.com/YOU-MING-STUDIOS/Yormong-OS-PPT/bl
 
 </div>
 
-## 1. 关于 Yormong OS 📖
+## 1. About Yormong OS 📖
 > 🔧  **Yormong OS** is a **PPT system** made by **@柚明(YOU - MING)** by **YOU MING Studio** on *2024.1.24* based on **Mindows11**.
 
 > ⭐ **The latest version：** 0.9.3    _（v0.9.2.2024502.003）_
