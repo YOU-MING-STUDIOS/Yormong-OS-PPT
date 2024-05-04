@@ -40,6 +40,6 @@ English 丨 [简体中文](https://github.com/YOU-MING-STUDIOS/Yormong-OS-PPT/bl
 > [!WARNING]
 > We are in closed beta testing and can only download the trial version at this time！
 
-> [Baidu network disk](https://pan.baidu.com/s/1BQnZKC_Mk20Y6TcfoRwYtw)
+> [Baidu Netdisk](https://pan.baidu.com/s/1BQnZKC_Mk20Y6TcfoRwYtw)
 >
 > Extract the code：`dmwt`
