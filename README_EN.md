@@ -36,7 +36,7 @@ English 丨 [简体中文](https://github.com/YOU-MING-STUDIOS/Yormong-OS-PPT/bl
 [Bilibili](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=2711175)
 
 
-## 3. Download the Yomonos file 📁
+## 3. Download the Yormong OS file 📁
 > [!WARNING]
 > We are in closed beta testing and can only download the trial version at this time！
 
