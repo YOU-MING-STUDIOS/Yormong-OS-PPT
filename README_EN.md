@@ -27,9 +27,7 @@ English 丨 [简体中文](https://github.com/YOU-MING-STUDIOS/Yormong-OS-PPT/bl
 > 😝 The public beta version is expected to be released in 2024.6...
 
 ## 2. History of the Yormong OS Version 🕒
-[Version page]()
-
-> Sorry, we haven't made a version page yet, so stay tuned!
+[Version page](https://github.com/YOU-MING-STUDIOS/Yormong-OS-PPT/releases)
 
 ## 3. Preview Yormong OS 🔍
 ### Promotional video▶️
